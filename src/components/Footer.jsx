@@ -2,7 +2,7 @@ import envelopeIcon from "../assets/EmailIcon.svg";
 import githubIcon from "../assets/GitHubLogo.svg";
 import linkedinIcon from "../assets/LinkedinLogo.svg";
 import XIcon from "../assets/XLogo.svg";
-import instagramIcon from "../assets/LinkedinLogo.svg";
+import instagramIcon from "../assets/InstagramLogo.svg";
 import Icon from "./UI/Icon";
 
 export default function Footer() {
