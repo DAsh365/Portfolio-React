@@ -28,7 +28,7 @@ function PortfolioPage() {
 			img: Readify,
 			text: '',
 			title: 'Readify',
-			link: 'github.com',
+			link: 'https://readify-cf4n.onrender.com',
 			repo: 'https://github.com/DAsh365/Readify',
 		}
 	];

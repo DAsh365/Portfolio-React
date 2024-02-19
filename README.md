@@ -42,4 +42,3 @@ As an employer looking for candidates with experience building single-page appli
 ## Credits
 
 This project is part of the edX Boot Camps curriculum.
-
